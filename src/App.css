@@ -1,0 +1,17 @@
+@import url("./header/Header.css");
+@import url("./body/Body.css");
+@import url("./footer/Footer.css");
+
+
+
+html,body { 
+    height:100%; 
+}
+
+#root {
+    height: 100%;
+}
+
+.main {
+    height: 100%;
+}
